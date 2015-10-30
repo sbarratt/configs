@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Espresso Libre (SL).tmTheme",
+	"detect_indentation": true,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Jedi - Python autocompletion",
+		"Markdown",
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
